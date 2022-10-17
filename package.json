@@ -1,0 +1,27 @@
+{
+  "name": "random-str-msg-diego",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diego2606/random-str-msg-diego.git"
+  },
+  "keywords": [],
+  "author": "Diego Velasquez <diego.velasquez.ore@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diego2606/random-str-msg-diego/issues"
+  },
+  "homepage": "https://github.com/diego2606/random-str-msg-diego#readme",
+  "bin": {
+    "random-str-msg": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
